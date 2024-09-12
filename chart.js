@@ -94,5 +94,5 @@ var parseMetadata = metadata => {
     }
   }
 
-  customElements.define('com-sap-sac-exercise-lkj004-main', Main)
+  customElements.define('com-sap-sac-exercise-lkj-main', Main)
 })()
