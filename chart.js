@@ -111,6 +111,5 @@ var parseMetadata = metadata => {
       })
     }
   }
-
   customElements.define('com-sap-sac-exercise-lkj-main', Main)
 })()
